@@ -1,5 +1,10 @@
-img{
+.mama{
     border-radius:30px ;
 width: 100%;
 margin: 10px;
+
+}
+
+body{
+    background: url(https://static.vecteezy.com/system/resources/previews/012/217/949/non_2x/white-fabric-texture-background-illustration-eps10-vector.jpg);
 }
