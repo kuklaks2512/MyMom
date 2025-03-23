@@ -1,9 +1,28 @@
 .mama{
     border-radius:30px ;
-width: 100%;
+width: 70%;
 margin: 10px;
 
+
 }
+div{
+  display: flex;
+
+}
+
+div p{
+padding-top: 20%;
+padding-bottom: 20%;
+margin-left: 30px;
+border-top: 10px solid black;
+border-bottom: 10px solid black;
+font-size:40px;
+text-align: center;
+vertical-align: center;
+width: 30%;
+border-radius: 20px;
+}
+
 
 body{
     background: url(https://static.vecteezy.com/system/resources/previews/012/217/949/non_2x/white-fabric-texture-background-illustration-eps10-vector.jpg);
